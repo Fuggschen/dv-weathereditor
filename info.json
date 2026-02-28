@@ -1,0 +1,9 @@
+{
+	"Id": "dv-weathereditor",
+	"Version": "0.1.0",
+	"DisplayName": "DV Weather Editor",
+	"Author": "Fuggschen",
+	"EntryMethod": "dv_weathereditor.Main.Load",
+	"ManagerVersion": "0.27.3",
+	"Repository": "https://raw.githubusercontent.com/fuggschen/dv-weathereditor/main/repository.json"
+}
