@@ -2,7 +2,7 @@
 	"Releases": [
 		{
 			"Id": "dv-weathereditor",
-			"Version": "1.0.0",
+			"Version": "0.1.0",
 			"DownloadUrl": "https://github.com/fuggschen/dv-weathereditor/releases/download/v0.1/dv-weathereditor.zip"
 		}
 	]
